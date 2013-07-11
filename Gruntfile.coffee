@@ -39,6 +39,7 @@ module.exports = (grunt) ->
   grunt.registerTask 'buildTests', [
     'build'
     'copy:test'
+    'copy:workers'
     'browserTests'
   ]
 

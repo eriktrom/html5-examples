@@ -7,6 +7,7 @@ module.exports =
     'vendor/**'
     'test/**/*'
     'grunt/**/*'
+    'workers/**/*'
   ]
   tasks: [
     'buildTests'

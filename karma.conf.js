@@ -3,15 +3,15 @@
 
 
 // base path, that will be used to resolve files and exclude
-basePath = '';
+basePath = 'tmp/public';
 
 
 // list of files / patterns to load in the browser
 files = [
   QUNIT,
   QUNIT_ADAPTER,
-  'tmp/public/vendor.js',
-  'tmp/public/tests.js'
+  'vendor.js',
+  'tests.js'
 ];
 
 
