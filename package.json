@@ -1,0 +1,39 @@
+{
+  "name": "html5-examples",
+  "modulePrefix": "html5-examples",
+  "globalExport": "Html5Examples",
+  "version": "0.1.0",
+  "description": "TODO: provide npm description",
+  "homepage": "https://github.com/trombom/html5-examples",
+  "main": "dist/commonjs/main.js",
+  "devDependencies": {
+    "grunt-contrib-clean": "~0.4.1",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-coffee": "~0.7.0",
+    "matchdep": "~0.1.2",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-cli": "~0.1.9",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt": "~0.4.1",
+    "grunt-karma": "~0.4.5",
+    "grunt-es6-module-transpiler": "*",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-qunit": "~0.2.2",
+    "grunt-contrib-jshint": "~0.6.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/trombom/html5-examples.git"
+  },
+  "bugs": {
+    "url": "https://github.com/trombom/html5-examples/issues"
+  },
+  "keywords": [
+    "TODO: provide npm keywords"
+  ],
+  "author": "Erik Trom <erik.trom@gmail.com> (https://github.com/trombom)",
+  "license": "MIT"
+}
