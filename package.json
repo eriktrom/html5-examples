@@ -3,7 +3,7 @@
   "modulePrefix": "html5-examples",
   "globalExport": "Html5Examples",
   "version": "0.1.0",
-  "description": "TODO: provide npm description",
+  "description": "Examples of using different HTML5 API's with JavaScript",
   "homepage": "https://github.com/trombom/html5-examples",
   "main": "dist/commonjs/main.js",
   "devDependencies": {
@@ -32,7 +32,7 @@
     "url": "https://github.com/trombom/html5-examples/issues"
   },
   "keywords": [
-    "TODO: provide npm keywords"
+    "HTML5 examples"
   ],
   "author": "Erik Trom <erik.trom@gmail.com> (https://github.com/trombom)",
   "license": "MIT"
